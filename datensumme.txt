@@ -1,234 +1,234 @@
-Eintrag 1: 3 + 1 = 4
-Eintrag 2: 0 + 2 = 2
-Eintrag 3: 1 + 2 = 3
-Eintrag 4: 1 + 0 = 1
-Eintrag 5: 2 + 1 = 3
-Eintrag 6: 1 + 1 = 2
-Eintrag 7: 2 + 0 = 2
-Eintrag 8: 1 + 0 = 1
-Eintrag 9: 4 + 1 = 5
-Eintrag 10: 0 + 0 = 0
-Eintrag 11: 3 + 1 = 4
-Eintrag 12: 1 + 3 = 4
-Eintrag 13: 1 + 2 = 3
-Eintrag 14: 1 + 1 = 2
-Eintrag 15: 1 + 1 = 2
-Eintrag 16: 0 + 3 = 3
-Eintrag 17: 1 + 1 = 2
-Eintrag 18: 0 + 2 = 2
-Eintrag 19: 3 + 1 = 4
-Eintrag 20: 3 + 1 = 4
-Eintrag 21: 3 + 2 = 5
-Eintrag 22: 2 + 1 = 3
-Eintrag 23: 2 + 2 = 4
-Eintrag 24: 2 + 1 = 3
-Eintrag 25: 2 + 1 = 3
-Eintrag 26: 1 + 1 = 2
-Eintrag 27: 3 + 3 = 6
-Eintrag 28: 0 + 0 = 0
-Eintrag 29: 1 + 1 = 2
-Eintrag 30: 4 + 2 = 6
-Eintrag 31: 2 + 3 = 5
-Eintrag 32: 1 + 3 = 4
-Eintrag 33: 2 + 0 = 2
-Eintrag 34: 0 + 2 = 2
-Eintrag 35: 1 + 0 = 1
-Eintrag 36: 1 + 1 = 2
-Eintrag 37: 3 + 1 = 4
-Eintrag 38: 1 + 1 = 2
-Eintrag 39: 1 + 3 = 4
-Eintrag 40: 1 + 0 = 1
-Eintrag 41: 1 + 2 = 3
-Eintrag 42: 7 + 0 = 7
-Eintrag 43: 2 + 0 = 2
-Eintrag 44: 3 + 1 = 4
-Eintrag 45: 0 + 0 = 0
-Eintrag 46: 2 + 0 = 2
-Eintrag 47: 1 + 0 = 1
-Eintrag 48: 1 + 2 = 3
-Eintrag 49: 2 + 1 = 3
-Eintrag 50: 2 + 2 = 4
-Eintrag 51: 3 + 0 = 3
-Eintrag 52: 2 + 4 = 6
-Eintrag 53: 4 + 1 = 5
-Eintrag 54: 4 + 1 = 5
-Eintrag 55: 2 + 0 = 2
-Eintrag 56: 4 + 3 = 7
-Eintrag 57: 3 + 1 = 4
-Eintrag 58: 0 + 0 = 0
-Eintrag 59: 0 + 2 = 2
-Eintrag 60: 0 + 3 = 3
-Eintrag 61: 0 + 0 = 0
-Eintrag 62: 1 + 2 = 3
-Eintrag 63: 6 + 0 = 6
-Eintrag 64: 7 + 1 = 8
-Eintrag 65: 2 + 2 = 4
-Eintrag 66: 0 + 4 = 4
-Eintrag 67: 0 + 0 = 0
-Eintrag 68: 1 + 3 = 4
-Eintrag 69: 1 + 3 = 4
-Eintrag 70: 0 + 2 = 2
-Eintrag 71: 1 + 1 = 2
-Eintrag 72: 4 + 0 = 4
-Eintrag 73: 3 + 1 = 4
-Eintrag 74: 2 + 2 = 4
-Eintrag 75: 1 + 2 = 3
-Eintrag 76: 1 + 2 = 3
-Eintrag 77: 0 + 3 = 3
-Eintrag 78: 4 + 0 = 4
-Eintrag 79: 1 + 1 = 2
-Eintrag 80: 0 + 0 = 0
-Eintrag 81: 2 + 6 = 8
-Eintrag 82: 0 + 3 = 3
-Eintrag 83: 1 + 1 = 2
-Eintrag 84: 3 + 1 = 4
-Eintrag 85: 1 + 4 = 5
-Eintrag 86: 2 + 2 = 4
-Eintrag 87: 0 + 1 = 1
-Eintrag 88: 0 + 3 = 3
-Eintrag 89: 3 + 0 = 3
-Eintrag 90: 2 + 1 = 3
-Eintrag 91: 2 + 1 = 3
-Eintrag 92: 2 + 1 = 3
-Eintrag 93: 1 + 3 = 4
-Eintrag 94: 1 + 3 = 4
-Eintrag 95: 4 + 1 = 5
-Eintrag 96: 0 + 2 = 2
-Eintrag 97: 3 + 2 = 5
-Eintrag 98: 3 + 0 = 3
-Eintrag 99: 3 + 0 = 3
-Eintrag 100: 2 + 0 = 2
-Eintrag 101: 3 + 3 = 6
-Eintrag 102: 3 + 3 = 6
-Eintrag 103: 1 + 3 = 4
-Eintrag 104: 1 + 2 = 3
-Eintrag 105: 1 + 0 = 1
-Eintrag 106: 5 + 2 = 7
-Eintrag 107: 1 + 1 = 2
-Eintrag 108: 4 + 1 = 5
-Eintrag 109: 0 + 1 = 1
-Eintrag 110: 2 + 0 = 2
-Eintrag 111: 1 + 0 = 1
-Eintrag 112: 1 + 2 = 3
-Eintrag 113: 0 + 2 = 2
-Eintrag 114: 1 + 1 = 2
-Eintrag 115: 2 + 0 = 2
-Eintrag 116: 1 + 2 = 3
-Eintrag 117: 1 + 1 = 2
-Eintrag 118: 3 + 1 = 4
-Eintrag 119: 3 + 0 = 3
-Eintrag 120: 1 + 2 = 3
-Eintrag 121: 1 + 0 = 1
-Eintrag 122: 3 + 0 = 3
-Eintrag 123: 2 + 2 = 4
-Eintrag 124: 1 + 0 = 1
-Eintrag 125: 1 + 1 = 2
-Eintrag 126: 3 + 0 = 3
-Eintrag 127: 0 + 2 = 2
-Eintrag 128: 0 + 0 = 0
-Eintrag 129: 2 + 1 = 3
-Eintrag 130: 1 + 1 = 2
-Eintrag 131: 0 + 4 = 4
-Eintrag 132: 2 + 0 = 2
-Eintrag 133: 2 + 1 = 3
-Eintrag 134: 4 + 1 = 5
-Eintrag 135: 2 + 1 = 3
-Eintrag 136: 2 + 0 = 2
-Eintrag 137: 2 + 2 = 4
-Eintrag 138: 2 + 0 = 2
-Eintrag 139: 2 + 1 = 3
-Eintrag 140: 1 + 2 = 3
-Eintrag 141: 1 + 0 = 1
-Eintrag 142: 1 + 1 = 2
-Eintrag 143: 1 + 1 = 2
-Eintrag 144: 2 + 2 = 4
-Eintrag 145: 2 + 1 = 3
-Eintrag 146: 3 + 1 = 4
-Eintrag 147: 3 + 2 = 5
-Eintrag 148: 1 + 3 = 4
-Eintrag 149: 0 + 1 = 1
-Eintrag 150: 0 + 1 = 1
-Eintrag 151: 0 + 3 = 3
-Eintrag 152: 2 + 3 = 5
-Eintrag 153: 1 + 1 = 2
-Eintrag 154: 1 + 3 = 4
-Eintrag 155: 0 + 1 = 1
-Eintrag 156: 2 + 3 = 5
-Eintrag 157: 3 + 1 = 4
-Eintrag 158: 1 + 2 = 3
-Eintrag 159: 0 + 1 = 1
-Eintrag 160: 0 + 1 = 1
-Eintrag 161: 1 + 3 = 4
-Eintrag 162: 2 + 1 = 3
-Eintrag 163: 2 + 2 = 4
-Eintrag 164: 5 + 1 = 6
-Eintrag 165: 2 + 0 = 2
-Eintrag 166: 2 + 4 = 6
-Eintrag 167: 2 + 1 = 3
-Eintrag 168: 0 + 3 = 3
-Eintrag 169: 2 + 2 = 4
-Eintrag 170: 4 + 1 = 5
-Eintrag 171: 0 + 4 = 4
-Eintrag 172: 0 + 3 = 3
-Eintrag 173: 1 + 1 = 2
-Eintrag 174: 3 + 1 = 4
-Eintrag 175: 1 + 1 = 2
-Eintrag 176: 0 + 1 = 1
-Eintrag 177: 1 + 1 = 2
-Eintrag 178: 0 + 2 = 2
-Eintrag 179: 3 + 0 = 3
-Eintrag 180: 2 + 2 = 4
-Eintrag 181: 1 + 5 = 6
-Eintrag 182: 3 + 3 = 6
-Eintrag 183: 0 + 0 = 0
-Eintrag 184: 0 + 3 = 3
-Eintrag 185: 2 + 0 = 2
-Eintrag 186: 3 + 3 = 6
-Eintrag 187: 3 + 1 = 4
-Eintrag 188: 4 + 0 = 4
-Eintrag 189: 3 + 0 = 3
-Eintrag 190: 2 + 3 = 5
-Eintrag 191: 0 + 0 = 0
-Eintrag 192: 3 + 0 = 3
-Eintrag 193: 1 + 3 = 4
-Eintrag 194: 3 + 0 = 3
-Eintrag 195: 1 + 1 = 2
-Eintrag 196: 1 + 1 = 2
-Eintrag 197: 2 + 0 = 2
-Eintrag 198: 0 + 0 = 0
-Eintrag 199: 1 + 1 = 2
-Eintrag 200: 1 + 0 = 1
-Eintrag 201: 0 + 3 = 3
-Eintrag 202: 5 + 1 = 6
-Eintrag 203: 3 + 0 = 3
-Eintrag 204: 2 + 1 = 3
-Eintrag 205: 0 + 3 = 3
-Eintrag 206: 3 + 2 = 5
-Eintrag 207: 1 + 1 = 2
-Eintrag 208: 2 + 1 = 3
-Eintrag 209: 0 + 4 = 4
-Eintrag 210: 2 + 0 = 2
-Eintrag 211: 3 + 2 = 5
-Eintrag 212: 2 + 1 = 3
-Eintrag 213: 0 + 1 = 1
-Eintrag 214: 1 + 5 = 6
-Eintrag 215: 5 + 1 = 6
-Eintrag 216: 1 + 1 = 2
-Eintrag 217: 4 + 2 = 6
-Eintrag 218: 6 + 0 = 6
-Eintrag 219: 3 + 1 = 4
-Eintrag 220: 0 + 0 = 0
-Eintrag 221: 2 + 1 = 3
-Eintrag 222: 0 + 1 = 1
-Eintrag 223: 2 + 1 = 3
-Eintrag 224: 2 + 3 = 5
-Eintrag 225: 0 + 3 = 3
-Eintrag 226: 1 + 1 = 2
-Eintrag 227: 0 + 1 = 1
-Eintrag 228: 1 + 1 = 2
-Eintrag 229: 3 + 1 = 4
-Eintrag 230: 5 + 2 = 7
-Eintrag 231: 2 + 3 = 5
-Eintrag 232: 1 + 3 = 4
-Eintrag 233: 1 + 0 = 1
-Eintrag 234: 6 + 0 = 6
+4
+2
+3
+1
+3
+2
+2
+1
+5
+0
+4
+4
+3
+2
+2
+3
+2
+2
+4
+4
+5
+3
+4
+3
+3
+2
+6
+0
+2
+6
+5
+4
+2
+2
+1
+2
+4
+2
+4
+1
+3
+7
+2
+4
+0
+2
+1
+3
+3
+4
+3
+6
+5
+5
+2
+7
+4
+0
+2
+3
+0
+3
+6
+8
+4
+4
+0
+4
+4
+2
+2
+4
+4
+4
+3
+3
+3
+4
+2
+0
+8
+3
+2
+4
+5
+4
+1
+3
+3
+3
+3
+3
+4
+4
+5
+2
+5
+3
+3
+2
+6
+6
+4
+3
+1
+7
+2
+5
+1
+2
+1
+3
+2
+2
+2
+3
+2
+4
+3
+3
+1
+3
+4
+1
+2
+3
+2
+0
+3
+2
+4
+2
+3
+5
+3
+2
+4
+2
+3
+3
+1
+2
+2
+4
+3
+4
+5
+4
+1
+1
+3
+5
+2
+4
+1
+5
+4
+3
+1
+1
+4
+3
+4
+6
+2
+6
+3
+3
+4
+5
+4
+3
+2
+4
+2
+1
+2
+2
+3
+4
+6
+6
+0
+3
+2
+6
+4
+4
+3
+5
+0
+3
+4
+3
+2
+2
+2
+0
+2
+1
+3
+6
+3
+3
+3
+5
+2
+3
+4
+2
+5
+3
+1
+6
+6
+2
+6
+6
+4
+0
+3
+1
+3
+5
+3
+2
+1
+2
+4
+7
+5
+4
+1
+6

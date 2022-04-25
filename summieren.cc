@@ -9,7 +9,7 @@ double a;
 for (int i = 0; i < 234; ++i){
   fin >> a;
   fin >> b;
-  fout << "Eintrag " << i+1 << ": " << a << " + " << b << " = " << a+b << std :: endl ;
+  fout << a+b << std :: endl ;
 }
 fin.close();
 }
