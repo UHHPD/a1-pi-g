@@ -7,7 +7,7 @@ int main() {
   std::ifstream fin("datensumme.txt");
   std::ifstream fin2("datensumme.txt");
   std::ofstream fout("mittelwerte.txt");
-  std::ofstream fout2("varianz.txt");
+  std::ofstream fout2("varianzen.txt");
 double a;
 double m;
 double summe = 0;
@@ -41,7 +41,7 @@ for (int i = 0; i < 26; ++i){
 }
 double Mittelwert = summe/26;
 std::cout << "Mittelwert: " << Mittelwert << std :: endl;
-    std::ifstream fin5("varianz.txt");
+    std::ifstream fin5("varianzen.txt");
 summe = 0;
 for (int i = 0; i < 26; ++i){
   fin4 >> a;
