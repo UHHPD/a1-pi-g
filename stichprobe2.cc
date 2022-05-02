@@ -21,6 +21,7 @@ for (int i = 0; i < 26; ++i){
   fout << summe/9 << std :: endl;
   summe = 0;
 }
+fout.close();
   std::ifstream fin3("mittelwerte.txt");
 for (int i = 0; i < 26; ++i){
   fin3 >> m;
@@ -34,6 +35,7 @@ for (int i = 0; i < 26; ++i){
   summe_abweichung = 0;
   abweichung = 0;
 }
+fout2.close();
   std::ifstream fin4("mittelwerte.txt");
 for (int i = 0; i < 26; ++i){
   fin4 >> a;
@@ -44,14 +46,12 @@ std::cout << "Mittelwert: " << Mittelwert << std :: endl;
     std::ifstream fin5("varianzen.txt");
 summe = 0;
 for (int i = 0; i < 26; ++i){
-  fin4 >> a;
+  fin5 >> a;
   summe += a;
 }
 double varianz_mittelwert = summe / 26;
-std::cout << "Mittelwert_Varianz: " << varianz << std :: endl;
+std::cout << "Mittelwert_Varianz: " << varianz_mittelwert << std :: endl;
 fin.close();
 fin2.close();
 fin3.close();
-fout.close();
-fout2.close();
 }
